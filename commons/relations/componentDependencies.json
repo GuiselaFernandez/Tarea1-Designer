@@ -1,0 +1,153 @@
+{
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_CALCULAAO_892": {
+			"labels": [
+			]
+		},
+		"EN_CUENTADSO_197": {
+			"labels": [
+			]
+		},
+		"EN_CUENTAORN_671": {
+			"labels": [
+			]
+		},
+		"EN_ESTADOCIL_911": {
+			"labels": [
+			]
+		},
+		"EN_ESTADOCLV_994": {
+			"labels": [
+			]
+		},
+		"EN_PERSONAAR_131": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_INTRDGLURNLOM_475": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CALCULAAO_892": [
+					"AT16_NUMERO11892",
+					"AT69_NUMERO22892",
+					"AT69_RESULTAO892"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_LIMPIARZZ_78122",
+				"LBL_INTRD_NUMERO1YQ_55741",
+				"LBL_INTRD_NUMERO2TB_89067",
+				"LBL_INTRD_RESULTADO_98642",
+				"LBL_INTRD_SUMARHBTV_54112"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_INTRDOMAGPMGE_180": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CUENTADSO_197": [
+					"AT51_SALDOYYX197",
+					"AT81_NUMERONN197"
+				],
+				"EN_CUENTAORN_671": [
+					"AT40_VALORTFA671",
+					"AT65_NUMEROUU671",
+					"AT98_SALDOAAE671"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_CUENTADEO_52753",
+				"LBL_INTRD_CUENTAONN_93646",
+				"LBL_INTRD_NMEROCUNN_77936",
+				"LBL_INTRD_NMEROCUOO_72761",
+				"LBL_INTRD_SALDOTZIM_71982",
+				"LBL_INTRD_TRANSFEIR_72222",
+				"LBL_INTRD_VALORATRN_66758"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_INTRDRYZRXLWM_462": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ESTADOCIL_911": [
+					"AT77_ESTADOCL911"
+				],
+				"EN_ESTADOCLV_994": [
+					"AT37_ESTADOVC994",
+					"AT65_ACTIVIDA994"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_ACTIVIDUC_79146",
+				"LBL_INTRD_ESTADOCVI_78024",
+				"LBL_INTRD_RESTAURAA_16619",
+				"LBL_INTRD_SELECCIAA_24089"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_INTRDWTMUUOMW_382": {
+			"blis": [
+			],
+			"entities": {
+				"EN_PERSONAAR_131": [
+					"AT53_NOMBREHN131",
+					"AT65_NOMBREPP131",
+					"AT94_APELLIDO131"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_APELLIDOO_13369",
+				"LBL_INTRD_GUARDARBN_25991",
+				"LBL_INTRD_LIMPIARZZ_78122",
+				"LBL_INTRD_NOMBRECLO_50790",
+				"LBL_INTRD_NOMBREJYQ_70510"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
+}

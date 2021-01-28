@@ -1,0 +1,30 @@
+{
+	"INTRD": {
+		"LBL_INTRD_ACTIVIDUC_79146": "Actividad Actual",
+		"LBL_INTRD_APELLIDOO_13369": "Apellido",
+		"LBL_INTRD_CUENTADEO_52753": "Cuenta Destino",
+		"LBL_INTRD_CUENTAONN_93646": "Cuenta Origen",
+		"LBL_INTRD_ESTADOCVI_78024": "Estado Civil",
+		"LBL_INTRD_GUARDARBN_25991": "Guardar",
+		"LBL_INTRD_LIMPIARZZ_78122": "Limpiar",
+		"LBL_INTRD_NMERO1VFJ_30980": "N\u00famero 1",
+		"LBL_INTRD_NMERO2EOU_41024": "N\u00famero 2",
+		"LBL_INTRD_NMEROCUEA_62009": "N\u00famero de cuenta",
+		"LBL_INTRD_NMEROCUNN_77936": "N\u00famero de cuenta Origen",
+		"LBL_INTRD_NMEROCUOO_72761": "N\u00famero de cuenta Destino",
+		"LBL_INTRD_NOMBRECLO_50790": "Nombre Completo",
+		"LBL_INTRD_NOMBREJYQ_70510": "Nombre",
+		"LBL_INTRD_NUMERO1YQ_55741": "Numero 1",
+		"LBL_INTRD_NUMERO2TB_89067": "Numero 2",
+		"LBL_INTRD_NUMEROCTA_73906": "Numero de Cuenta Destino",
+		"LBL_INTRD_RESPUESTA_53092": "Respuesta",
+		"LBL_INTRD_RESTAURAA_16619": "Restaurar",
+		"LBL_INTRD_RESULTADO_98642": "Resultado",
+		"LBL_INTRD_SALDOTZIM_71982": "Saldo",
+		"LBL_INTRD_SELECCIAA_24089": "Seleccionar Estado civil",
+		"LBL_INTRD_SELECCIAR_59457": "Seleccionar estado civil",
+		"LBL_INTRD_SUMARHBTV_54112": "Sumar",
+		"LBL_INTRD_TRANSFEIR_72222": "Transferir",
+		"LBL_INTRD_VALORATRN_66758": "Valor a transferir"
+	}
+}

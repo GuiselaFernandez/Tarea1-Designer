@@ -1,0 +1,126 @@
+{
+	"APP_CAPACITANNI_808": {
+		"externalModules": {
+		},
+		"forms": {
+			"INTRD": [
+				{
+					"generated": 2,
+					"moduleId": "INTRD",
+					"moduleName": "Introduccion",
+					"name": "EventosCliente",
+					"subModuleId": "FRMLR",
+					"subModuleName": "Formulario",
+					"taskId": "T_INTRDWTMUUOMW_382",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "Capacitacion",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_CAPACITANNI_808",
+		"mainPortletTaskId": "T_INTRDWTMUUOMW_382",
+		"modules": [
+			"INTRD"
+		],
+		"name": "Capacitacion"
+	},
+	"APP_EJERCICI111_936": {
+		"externalModules": {
+		},
+		"forms": {
+			"INTRD": [
+				{
+					"generated": 0,
+					"moduleId": "INTRD",
+					"moduleName": "Introduccion",
+					"name": "EventoCalculadora",
+					"subModuleId": "OPRCN",
+					"subModuleName": "Operaciones",
+					"taskId": "T_INTRDGLURNLOM_475",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "Ejercicio1",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_EJERCICI111_936",
+		"mainPortletTaskId": "T_INTRDGLURNLOM_475",
+		"modules": [
+			"INTRD"
+		],
+		"name": "Ejercicio1"
+	},
+	"APP_EJERCICI33O_965": {
+		"externalModules": {
+		},
+		"forms": {
+			"INTRD": [
+				{
+					"generated": 2,
+					"moduleId": "INTRD",
+					"name": "FormEstadoCivil",
+					"subModuleId": "CMBOS",
+					"taskId": "T_INTRDRYZRXLWM_462",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "Ejercicio3",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_EJERCICI33O_965",
+		"mainPortletTaskId": "T_INTRDRYZRXLWM_462",
+		"modules": [
+			"INTRD"
+		],
+		"name": "Ejercicio3"
+	},
+	"APP_EJERCICIO22_441": {
+		"externalModules": {
+		},
+		"forms": {
+			"INTRD": [
+				{
+					"generated": 2,
+					"moduleId": "INTRD",
+					"name": "Transaccion",
+					"subModuleId": "FRMCN",
+					"taskId": "T_INTRDOMAGPMGE_180",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "Ejercicio2",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_EJERCICIO22_441",
+		"mainPortletTaskId": "T_INTRDOMAGPMGE_180",
+		"modules": [
+			"INTRD"
+		],
+		"name": "Ejercicio2"
+	}
+}
